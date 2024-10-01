@@ -1,0 +1,5 @@
+gpiozero==2.0.1
+lgpio==0.2.2.0
+pillow==10.4.0
+pygame==2.6.0
+tinytag==1.10.1
